@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="izadji">Izadji</string>
+    <string name="igraj">Igraj</string>
+    <string name="dobrodosli">Dobrodosli</string>
+    <string name="unesi">Unesi</string>
+</resources>
